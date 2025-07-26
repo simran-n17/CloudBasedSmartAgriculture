@@ -1,4 +1,7 @@
-# 🌾 Cloud-Based Smart Agriculture Platform
+# 🌾 Cloud-Based Smart Agriculture Platform 
+## 🌐 Live Demo
+
+👉 [Click here to access the deployed app on AWS](http://54.197.141.143:5000/)
 
 A cloud-integrated smart agriculture web platform designed to assist farmers in making data-driven decisions for optimal crop yield. It offers crop recommendations based on user inputs such as state, season, and soil type using a trained machine learning model, along with access to weather forecasts and farming insights.
 
