@@ -1,4 +1,3 @@
-```markdown
 # 🌾 Cloud-Based Smart Agriculture Platform
 
 A cloud-integrated smart agriculture web platform designed to assist farmers in making data-driven decisions for optimal crop yield. It offers crop recommendations based on user inputs such as state, season, and soil type using a trained machine learning model, along with access to weather forecasts and farming insights.
