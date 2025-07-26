@@ -66,8 +66,3 @@ You can deploy this app to:
 🌱 *Empowering Farmers with Technology for a Better Tomorrow.*
 
 ```
-
----
-
-Let me know if you'd like to include screenshots, deployment links, or instructions for training the ML model.
-```
